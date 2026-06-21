@@ -102,4 +102,4 @@ Parâmetros:
 ## Observação
 
 A biblioteca usada aqui é `ytmusicapi` em Python, porque Vercel roda Python Functions de forma simples.
-A biblioteca C# `IcySnex/YouTubeMusicAPI` é melhor para backend .NET em Render, Railway, Fly.io ou Azure, não Vercel.# sora_vercel_ytmusic_api
+A biblioteca C# `IcySnex/YouTubeMusicAPI` é melhor para backend .NET em Render, Railway, Fly.io ou Azure, não Vercel.
